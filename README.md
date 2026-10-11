@@ -4,7 +4,7 @@
 **Registered Email**: `darshan.cbe@gmail.com`  
 **Target Repository**: [IvorySQL/IvorySQL](https://github.com/IvorySQL/IvorySQL) (★ 1,067+ Stars)  
 **Target Issue**: [#2342: Build failure in DBMS_SCHEDULER due to incorrect placement of pg_noreturn](https://github.com/IvorySQL/IvorySQL/issues/2342)  
-**Upstream Pull Request**: *(Link to opened Pull Request on IvorySQL/IvorySQL)*  
+**Upstream Pull Request**: [IvorySQL/IvorySQL#2356](https://github.com/IvorySQL/IvorySQL/pull/2356)  
 
 ---
 
